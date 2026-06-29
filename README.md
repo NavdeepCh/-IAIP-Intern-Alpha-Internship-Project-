@@ -18,7 +18,7 @@ An interactive student attendance dashboard built using Google Looker Studio (al
 - CSV Data (240 rows, 20 students, 12 months)
 
 ### Dashboard Link
-[Click here to view live dashboard](https://your-looker-studio-link-here)
+[Click here to view live dashboard](https://datastudio.google.com/s/rkLI4NVywOQ).
 
 ### Screenshots
 ![Dashboard](screenshot.png)
