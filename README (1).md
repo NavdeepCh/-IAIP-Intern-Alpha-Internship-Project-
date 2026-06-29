@@ -14,7 +14,7 @@ A comprehensive **Power BI dashboard** designed to track, analyze, and visualize
 
 ## 📸 Screenshots
 
-![Dashboard](./screenshots/Dashboard.png)
+![Dashboard](./screenshots/DashBoard.png)
 
 ---
 
