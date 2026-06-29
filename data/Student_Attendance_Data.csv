@@ -1,0 +1,241 @@
+StudentID,Name,Class,Section,Month,TotalDays,DaysPresent,Attendance%,Status
+S001,Arjun Kumar,10th,A,January,22,20,90.9,Excellent
+S001,Arjun Kumar,10th,A,February,20,18,90.0,Excellent
+S001,Arjun Kumar,10th,A,March,23,21,91.3,Excellent
+S001,Arjun Kumar,10th,A,April,21,19,90.5,Excellent
+S001,Arjun Kumar,10th,A,May,22,20,90.9,Excellent
+S001,Arjun Kumar,10th,A,June,20,18,90.0,Excellent
+S001,Arjun Kumar,10th,A,July,23,20,87.0,Regular
+S001,Arjun Kumar,10th,A,August,22,21,95.5,Excellent
+S001,Arjun Kumar,10th,A,September,21,19,90.5,Excellent
+S001,Arjun Kumar,10th,A,October,23,22,95.7,Excellent
+S001,Arjun Kumar,10th,A,November,20,19,95.0,Excellent
+S001,Arjun Kumar,10th,A,December,18,16,88.9,Regular
+S002,Priya Singh,10th,A,January,22,16,72.7,At Risk
+S002,Priya Singh,10th,A,February,20,15,75.0,Regular
+S002,Priya Singh,10th,A,March,23,18,78.3,Regular
+S002,Priya Singh,10th,A,April,21,16,76.2,Regular
+S002,Priya Singh,10th,A,May,22,18,81.8,Regular
+S002,Priya Singh,10th,A,June,20,17,85.0,Regular
+S002,Priya Singh,10th,A,July,23,17,73.9,At Risk
+S002,Priya Singh,10th,A,August,22,18,81.8,Regular
+S002,Priya Singh,10th,A,September,21,16,76.2,Regular
+S002,Priya Singh,10th,A,October,23,20,87.0,Regular
+S002,Priya Singh,10th,A,November,20,17,85.0,Regular
+S002,Priya Singh,10th,A,December,18,15,83.3,Regular
+S003,Rahul Mehta,10th,B,January,22,14,63.6,At Risk
+S003,Rahul Mehta,10th,B,February,20,14,70.0,At Risk
+S003,Rahul Mehta,10th,B,March,23,16,69.6,At Risk
+S003,Rahul Mehta,10th,B,April,21,14,66.7,At Risk
+S003,Rahul Mehta,10th,B,May,22,14,63.6,At Risk
+S003,Rahul Mehta,10th,B,June,20,13,65.0,At Risk
+S003,Rahul Mehta,10th,B,July,23,16,69.6,At Risk
+S003,Rahul Mehta,10th,B,August,22,15,68.2,At Risk
+S003,Rahul Mehta,10th,B,September,21,14,66.7,At Risk
+S003,Rahul Mehta,10th,B,October,23,15,65.2,At Risk
+S003,Rahul Mehta,10th,B,November,20,13,65.0,At Risk
+S003,Rahul Mehta,10th,B,December,18,12,66.7,At Risk
+S004,Sneha Patel,9th,C,January,22,19,86.4,Regular
+S004,Sneha Patel,9th,C,February,20,17,85.0,Regular
+S004,Sneha Patel,9th,C,March,23,21,91.3,Excellent
+S004,Sneha Patel,9th,C,April,21,18,85.7,Regular
+S004,Sneha Patel,9th,C,May,22,20,90.9,Excellent
+S004,Sneha Patel,9th,C,June,20,18,90.0,Excellent
+S004,Sneha Patel,9th,C,July,23,21,91.3,Excellent
+S004,Sneha Patel,9th,C,August,22,19,86.4,Regular
+S004,Sneha Patel,9th,C,September,21,18,85.7,Regular
+S004,Sneha Patel,9th,C,October,23,21,91.3,Excellent
+S004,Sneha Patel,9th,C,November,20,18,90.0,Excellent
+S004,Sneha Patel,9th,C,December,18,15,83.3,Regular
+S005,Vikram Rao,9th,B,January,22,17,77.3,Regular
+S005,Vikram Rao,9th,B,February,20,14,70.0,At Risk
+S005,Vikram Rao,9th,B,March,23,18,78.3,Regular
+S005,Vikram Rao,9th,B,April,21,16,76.2,Regular
+S005,Vikram Rao,9th,B,May,22,16,72.7,At Risk
+S005,Vikram Rao,9th,B,June,20,15,75.0,Regular
+S005,Vikram Rao,9th,B,July,23,16,69.6,At Risk
+S005,Vikram Rao,9th,B,August,22,15,68.2,At Risk
+S005,Vikram Rao,9th,B,September,21,15,71.4,At Risk
+S005,Vikram Rao,9th,B,October,23,17,73.9,At Risk
+S005,Vikram Rao,9th,B,November,20,14,70.0,At Risk
+S005,Vikram Rao,9th,B,December,18,13,72.2,At Risk
+S006,Ananya Das,11th,A,January,22,20,90.9,Excellent
+S006,Ananya Das,11th,A,February,20,19,95.0,Excellent
+S006,Ananya Das,11th,A,March,23,22,95.7,Excellent
+S006,Ananya Das,11th,A,April,21,21,100.0,Excellent
+S006,Ananya Das,11th,A,May,22,21,95.5,Excellent
+S006,Ananya Das,11th,A,June,20,19,95.0,Excellent
+S006,Ananya Das,11th,A,July,23,22,95.7,Excellent
+S006,Ananya Das,11th,A,August,22,21,95.5,Excellent
+S006,Ananya Das,11th,A,September,21,20,95.2,Excellent
+S006,Ananya Das,11th,A,October,23,22,95.7,Excellent
+S006,Ananya Das,11th,A,November,20,18,90.0,Excellent
+S006,Ananya Das,11th,A,December,18,17,94.4,Excellent
+S007,Karan Shah,11th,C,January,22,19,86.4,Regular
+S007,Karan Shah,11th,C,February,20,16,80.0,Regular
+S007,Karan Shah,11th,C,March,23,18,78.3,Regular
+S007,Karan Shah,11th,C,April,21,18,85.7,Regular
+S007,Karan Shah,11th,C,May,22,18,81.8,Regular
+S007,Karan Shah,11th,C,June,20,16,80.0,Regular
+S007,Karan Shah,11th,C,July,23,20,87.0,Regular
+S007,Karan Shah,11th,C,August,22,18,81.8,Regular
+S007,Karan Shah,11th,C,September,21,17,81.0,Regular
+S007,Karan Shah,11th,C,October,23,18,78.3,Regular
+S007,Karan Shah,11th,C,November,20,16,80.0,Regular
+S007,Karan Shah,11th,C,December,18,14,77.8,Regular
+S008,Meera Nair,9th,A,January,22,14,63.6,At Risk
+S008,Meera Nair,9th,A,February,20,13,65.0,At Risk
+S008,Meera Nair,9th,A,March,23,14,60.9,At Risk
+S008,Meera Nair,9th,A,April,21,12,57.1,At Risk
+S008,Meera Nair,9th,A,May,22,13,59.1,At Risk
+S008,Meera Nair,9th,A,June,20,13,65.0,At Risk
+S008,Meera Nair,9th,A,July,23,14,60.9,At Risk
+S008,Meera Nair,9th,A,August,22,13,59.1,At Risk
+S008,Meera Nair,9th,A,September,21,14,66.7,At Risk
+S008,Meera Nair,9th,A,October,23,15,65.2,At Risk
+S008,Meera Nair,9th,A,November,20,13,65.0,At Risk
+S008,Meera Nair,9th,A,December,18,12,66.7,At Risk
+S009,Ravi Teja,10th,C,January,22,19,86.4,Regular
+S009,Ravi Teja,10th,C,February,20,16,80.0,Regular
+S009,Ravi Teja,10th,C,March,23,19,82.6,Regular
+S009,Ravi Teja,10th,C,April,21,17,81.0,Regular
+S009,Ravi Teja,10th,C,May,22,18,81.8,Regular
+S009,Ravi Teja,10th,C,June,20,18,90.0,Excellent
+S009,Ravi Teja,10th,C,July,23,20,87.0,Regular
+S009,Ravi Teja,10th,C,August,22,18,81.8,Regular
+S009,Ravi Teja,10th,C,September,21,19,90.5,Excellent
+S009,Ravi Teja,10th,C,October,23,20,87.0,Regular
+S009,Ravi Teja,10th,C,November,20,18,90.0,Excellent
+S009,Ravi Teja,10th,C,December,18,15,83.3,Regular
+S010,Divya Reddy,11th,B,January,22,20,90.9,Excellent
+S010,Divya Reddy,11th,B,February,20,18,90.0,Excellent
+S010,Divya Reddy,11th,B,March,23,20,87.0,Regular
+S010,Divya Reddy,11th,B,April,21,20,95.2,Excellent
+S010,Divya Reddy,11th,B,May,22,20,90.9,Excellent
+S010,Divya Reddy,11th,B,June,20,17,85.0,Regular
+S010,Divya Reddy,11th,B,July,23,20,87.0,Regular
+S010,Divya Reddy,11th,B,August,22,19,86.4,Regular
+S010,Divya Reddy,11th,B,September,21,18,85.7,Regular
+S010,Divya Reddy,11th,B,October,23,20,87.0,Regular
+S010,Divya Reddy,11th,B,November,20,18,90.0,Excellent
+S010,Divya Reddy,11th,B,December,18,17,94.4,Excellent
+S011,Anil Kumar,9th,A,January,22,16,72.7,At Risk
+S011,Anil Kumar,9th,A,February,20,16,80.0,Regular
+S011,Anil Kumar,9th,A,March,23,18,78.3,Regular
+S011,Anil Kumar,9th,A,April,21,17,81.0,Regular
+S011,Anil Kumar,9th,A,May,22,17,77.3,Regular
+S011,Anil Kumar,9th,A,June,20,16,80.0,Regular
+S011,Anil Kumar,9th,A,July,23,17,73.9,At Risk
+S011,Anil Kumar,9th,A,August,22,18,81.8,Regular
+S011,Anil Kumar,9th,A,September,21,15,71.4,At Risk
+S011,Anil Kumar,9th,A,October,23,19,82.6,Regular
+S011,Anil Kumar,9th,A,November,20,15,75.0,Regular
+S011,Anil Kumar,9th,A,December,18,15,83.3,Regular
+S012,Pooja Sharma,10th,B,January,22,21,95.5,Excellent
+S012,Pooja Sharma,10th,B,February,20,18,90.0,Excellent
+S012,Pooja Sharma,10th,B,March,23,21,91.3,Excellent
+S012,Pooja Sharma,10th,B,April,21,18,85.7,Regular
+S012,Pooja Sharma,10th,B,May,22,20,90.9,Excellent
+S012,Pooja Sharma,10th,B,June,20,18,90.0,Excellent
+S012,Pooja Sharma,10th,B,July,23,20,87.0,Regular
+S012,Pooja Sharma,10th,B,August,22,20,90.9,Excellent
+S012,Pooja Sharma,10th,B,September,21,18,85.7,Regular
+S012,Pooja Sharma,10th,B,October,23,21,91.3,Excellent
+S012,Pooja Sharma,10th,B,November,20,19,95.0,Excellent
+S012,Pooja Sharma,10th,B,December,18,16,88.9,Regular
+S013,Suresh Babu,11th,A,January,22,20,90.9,Excellent
+S013,Suresh Babu,11th,A,February,20,19,95.0,Excellent
+S013,Suresh Babu,11th,A,March,23,21,91.3,Excellent
+S013,Suresh Babu,11th,A,April,21,19,90.5,Excellent
+S013,Suresh Babu,11th,A,May,22,21,95.5,Excellent
+S013,Suresh Babu,11th,A,June,20,18,90.0,Excellent
+S013,Suresh Babu,11th,A,July,23,21,91.3,Excellent
+S013,Suresh Babu,11th,A,August,22,21,95.5,Excellent
+S013,Suresh Babu,11th,A,September,21,20,95.2,Excellent
+S013,Suresh Babu,11th,A,October,23,21,91.3,Excellent
+S013,Suresh Babu,11th,A,November,20,18,90.0,Excellent
+S013,Suresh Babu,11th,A,December,18,17,94.4,Excellent
+S014,Lakshmi Devi,9th,C,January,22,15,68.2,At Risk
+S014,Lakshmi Devi,9th,C,February,20,14,70.0,At Risk
+S014,Lakshmi Devi,9th,C,March,23,15,65.2,At Risk
+S014,Lakshmi Devi,9th,C,April,21,14,66.7,At Risk
+S014,Lakshmi Devi,9th,C,May,22,16,72.7,At Risk
+S014,Lakshmi Devi,9th,C,June,20,13,65.0,At Risk
+S014,Lakshmi Devi,9th,C,July,23,15,65.2,At Risk
+S014,Lakshmi Devi,9th,C,August,22,16,72.7,At Risk
+S014,Lakshmi Devi,9th,C,September,21,14,66.7,At Risk
+S014,Lakshmi Devi,9th,C,October,23,17,73.9,At Risk
+S014,Lakshmi Devi,9th,C,November,20,13,65.0,At Risk
+S014,Lakshmi Devi,9th,C,December,18,12,66.7,At Risk
+S015,Manoj Verma,10th,A,January,22,19,86.4,Regular
+S015,Manoj Verma,10th,A,February,20,17,85.0,Regular
+S015,Manoj Verma,10th,A,March,23,20,87.0,Regular
+S015,Manoj Verma,10th,A,April,21,17,81.0,Regular
+S015,Manoj Verma,10th,A,May,22,18,81.8,Regular
+S015,Manoj Verma,10th,A,June,20,17,85.0,Regular
+S015,Manoj Verma,10th,A,July,23,20,87.0,Regular
+S015,Manoj Verma,10th,A,August,22,18,81.8,Regular
+S015,Manoj Verma,10th,A,September,21,17,81.0,Regular
+S015,Manoj Verma,10th,A,October,23,20,87.0,Regular
+S015,Manoj Verma,10th,A,November,20,16,80.0,Regular
+S015,Manoj Verma,10th,A,December,18,15,83.3,Regular
+S016,Kavitha Rao,11th,B,January,22,20,90.9,Excellent
+S016,Kavitha Rao,11th,B,February,20,18,90.0,Excellent
+S016,Kavitha Rao,11th,B,March,23,21,91.3,Excellent
+S016,Kavitha Rao,11th,B,April,21,19,90.5,Excellent
+S016,Kavitha Rao,11th,B,May,22,20,90.9,Excellent
+S016,Kavitha Rao,11th,B,June,20,17,85.0,Regular
+S016,Kavitha Rao,11th,B,July,23,20,87.0,Regular
+S016,Kavitha Rao,11th,B,August,22,19,86.4,Regular
+S016,Kavitha Rao,11th,B,September,21,18,85.7,Regular
+S016,Kavitha Rao,11th,B,October,23,20,87.0,Regular
+S016,Kavitha Rao,11th,B,November,20,17,85.0,Regular
+S016,Kavitha Rao,11th,B,December,18,17,94.4,Excellent
+S017,Sai Krishna,9th,B,January,22,17,77.3,Regular
+S017,Sai Krishna,9th,B,February,20,14,70.0,At Risk
+S017,Sai Krishna,9th,B,March,23,18,78.3,Regular
+S017,Sai Krishna,9th,B,April,21,15,71.4,At Risk
+S017,Sai Krishna,9th,B,May,22,15,68.2,At Risk
+S017,Sai Krishna,9th,B,June,20,14,70.0,At Risk
+S017,Sai Krishna,9th,B,July,23,18,78.3,Regular
+S017,Sai Krishna,9th,B,August,22,15,68.2,At Risk
+S017,Sai Krishna,9th,B,September,21,15,71.4,At Risk
+S017,Sai Krishna,9th,B,October,23,16,69.6,At Risk
+S017,Sai Krishna,9th,B,November,20,14,70.0,At Risk
+S017,Sai Krishna,9th,B,December,18,13,72.2,At Risk
+S018,Deepika Nair,10th,C,January,22,16,72.7,At Risk
+S018,Deepika Nair,10th,C,February,20,16,80.0,Regular
+S018,Deepika Nair,10th,C,March,23,18,78.3,Regular
+S018,Deepika Nair,10th,C,April,21,16,76.2,Regular
+S018,Deepika Nair,10th,C,May,22,18,81.8,Regular
+S018,Deepika Nair,10th,C,June,20,16,80.0,Regular
+S018,Deepika Nair,10th,C,July,23,18,78.3,Regular
+S018,Deepika Nair,10th,C,August,22,18,81.8,Regular
+S018,Deepika Nair,10th,C,September,21,16,76.2,Regular
+S018,Deepika Nair,10th,C,October,23,19,82.6,Regular
+S018,Deepika Nair,10th,C,November,20,17,85.0,Regular
+S018,Deepika Nair,10th,C,December,18,15,83.3,Regular
+S019,Rohit Sharma,11th,C,January,22,20,90.9,Excellent
+S019,Rohit Sharma,11th,C,February,20,19,95.0,Excellent
+S019,Rohit Sharma,11th,C,March,23,22,95.7,Excellent
+S019,Rohit Sharma,11th,C,April,21,19,90.5,Excellent
+S019,Rohit Sharma,11th,C,May,22,20,90.9,Excellent
+S019,Rohit Sharma,11th,C,June,20,18,90.0,Excellent
+S019,Rohit Sharma,11th,C,July,23,22,95.7,Excellent
+S019,Rohit Sharma,11th,C,August,22,20,90.9,Excellent
+S019,Rohit Sharma,11th,C,September,21,20,95.2,Excellent
+S019,Rohit Sharma,11th,C,October,23,22,95.7,Excellent
+S019,Rohit Sharma,11th,C,November,20,19,95.0,Excellent
+S019,Rohit Sharma,11th,C,December,18,16,88.9,Regular
+S020,Nisha Gupta,9th,A,January,22,20,90.9,Excellent
+S020,Nisha Gupta,9th,A,February,20,18,90.0,Excellent
+S020,Nisha Gupta,9th,A,March,23,20,87.0,Regular
+S020,Nisha Gupta,9th,A,April,21,17,81.0,Regular
+S020,Nisha Gupta,9th,A,May,22,17,77.3,Regular
+S020,Nisha Gupta,9th,A,June,20,17,85.0,Regular
+S020,Nisha Gupta,9th,A,July,23,19,82.6,Regular
+S020,Nisha Gupta,9th,A,August,22,18,81.8,Regular
+S020,Nisha Gupta,9th,A,September,21,17,81.0,Regular
+S020,Nisha Gupta,9th,A,October,23,19,82.6,Regular
+S020,Nisha Gupta,9th,A,November,20,16,80.0,Regular
+S020,Nisha Gupta,9th,A,December,18,16,88.9,Regular
