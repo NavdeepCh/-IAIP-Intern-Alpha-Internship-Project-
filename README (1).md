@@ -8,7 +8,7 @@ A comprehensive **Power BI dashboard** designed to track, analyze, and visualize
 
 ## 📊 Dashboard Link
 
-[Click here to view live dashboard](https://your-dashboard-link-here.com)
+[Click here to view live dashboard](https://datastudio.google.com/s/rkLI4NVywOQ)
 
 ---
 
@@ -155,8 +155,8 @@ This project demonstrates:
 ## 📧 Submitted By
 
 **Navadeep Ch**  
-[GitHub Profile](https://github.com/NavadeepCh)  
-[LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub Profile](https://github.com/NavdeepCh)  
+[LinkedIn](https://linkedin.com/in/navadeepch)
 
 ---
 
@@ -176,7 +176,7 @@ This project is part of the IAIP Internship Program. All rights reserved.
 
 For questions, feedback, or issues:
 - Open an issue on [GitHub Issues](https://github.com/NavadeepCh/IAIP-Intern-Alpha-Internship-Project/issues)
-- Contact: [your-email@example.com]
+- Contact: [navadeepch2005@gmail.com]
 
 ---
 
