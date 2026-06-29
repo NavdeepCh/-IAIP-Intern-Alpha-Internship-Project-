@@ -21,7 +21,7 @@ An interactive student attendance dashboard built using Google Looker Studio (al
 [Click here to view live dashboard](https://datastudio.google.com/s/rkLI4NVywOQ).
 
 ### Screenshots
-![Dashboard](dashboard.png)
+![Dashboard](DashBoard.png)
 
 ### Data File
 - Student_Attendance_Data.csv
