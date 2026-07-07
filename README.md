@@ -1,4 +1,4 @@
-# Student Attendance Dashboard
+# Student Attendance Dashboard Section
 
 ## Overview
 
